@@ -1,0 +1,19 @@
+{
+    "name": "henri/curso-poo-php",
+    "description": "Curso completo sobre POO com PHP",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Henri\\CursoPooPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Henrique",
+            "email": "carlinhosbackend@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^7.3"
+    }
+}
